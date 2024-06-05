@@ -9,9 +9,6 @@
 - [Installation](#installation)
 - [Models](#models)
 - [Experiments](#experiments)
-- [Demo](#demo)
-- [Reproducibility](#reproducibility)
-- [License](#license)
 - [Citation](#citation)
 
 ## Installation
