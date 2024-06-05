@@ -1,2 +1,2 @@
 # NicheHazardQA
-Codes and datasets are coming soon!
+Dataset can be found in https://huggingface.co/datasets/SoftMINER-Group/NicheHazardQA
