@@ -1,6 +1,4 @@
-# NicheHazardQA
-Dataset can be found in 
-# 
+#NicheHazardQA
 
 This is the official repository for "[Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models](https://arxiv.org/abs/2401.10647)" (accepted at ACL 2024) by [Rima Hazra](https://sites.google.com/view/rima-hazra/home), [Sayan Layek], [Somnath Banerjee], [Soujanya Poria](https://soujanyaporia.github.io/).
 Check out our [dataset here](https://huggingface.co/datasets/SoftMINER-Group/NicheHazardQA)].
